@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Regression Models**
 
-- 👯 I’m looking to collaborate on **Survival analysis and multivariate statistics projects**
+- 👯 I’m looking to collaborate on **survival analysis and multivariate statistics projects**
 
 - 📫 How to reach me **mara.caroline.torres@uel.br**
 
