@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mara</h1>
-<h3 align="center">A passionate math master's student from Brazil</h3>
+<h3 align="center">A passionate master of applied mathematics from Brazil</h3>
 
-- 🌱 I’m currently learning **Regression Models**
+- 🌱 I’m currently learning **Regression Models**, **Survival Analysis**
 
 - 👯 I’m looking to collaborate on **survival analysis and multivariate statistics projects**
 
